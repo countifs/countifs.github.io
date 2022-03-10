@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "COUNTIFS NOTE"
 title_separator          : "|"
-subtitle                 : "small positive action"
+subtitle                 : "작은 눈뭉치 부터 만들고 시작하기"
 name                     : "Kim Jaeho"
 description              : "COUNTIFS 데이터 사이언스 블로그 입니다."
 url                      : "https://countifs.github.io"
