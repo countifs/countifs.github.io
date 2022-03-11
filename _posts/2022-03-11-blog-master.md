@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Blog Master"
+title:  "블로그 관리자"
 categories : Blog
 tag : [Blog, jekyll]
 toc: true
