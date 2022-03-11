@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "COUNTIFS NOTE"
 title_separator          : "|"
-subtitle                 : "작은 눈뭉치 부터 만들고 시작하기"
+subtitle                 : "작은 눈뭉치 만들기"
 name                     : "Kim Jaeho"
 description              : "COUNTIFS 데이터 사이언스 블로그 입니다."
 url                      : "https://countifs.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "coutnifs/countifs.github.io"
-teaser                   : "/assets/images/countifs_logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/countifs_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
