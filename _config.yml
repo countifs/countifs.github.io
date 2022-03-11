@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "COUNTIFS NOTE"
 title_separator          : "|"
 subtitle                 : "작은 눈뭉치 만들기"
-name                     : "Kim Jaeho"
+name                     : "김재호(Kim Jaeho)"
 description              : "COUNTIFS 데이터 사이언스 블로그 입니다."
 url                      : "https://countifs.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "coutnifs/countifs.github.io"
+repository               : "https://github.com/countifs/countifs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/그림2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -73,7 +73,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "10d13bd9a03d4690c88dde34e14e602c6e9299d1"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "doe2x2@seoultech.ac.kr"
+      url: mailto:doe2x2@seoultech.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,6 +130,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:doe2x2@seoultech.ac.kr  
     - label: "GitHub"
       icon: "https://github.com/countifs"
 
