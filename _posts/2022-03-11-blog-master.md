@@ -7,6 +7,10 @@ toc: true
 toc_sticky : true
 toc_label: "Blog Master"
 toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
+author_profile: false
+sidebar:
+     nav: "docs"
+search : true     
 ---
 
 - [블로그](https://countifs.github.io/) : 깃헙 페이지
