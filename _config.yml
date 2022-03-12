@@ -134,7 +134,8 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:doe2x2@seoultech.ac.kr  
     - label: "GitHub"
-      icon: "https://github.com/countifs"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/countifs"
 
 
 # Reading Files
