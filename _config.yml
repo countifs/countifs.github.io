@@ -102,13 +102,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Jaeho"
+  name             : "김재호(Kim Jaeho)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DataScience Notebook"
   location         : "South Korea, Inchun "
   email            : 
   links:
-    - label: "Email"
+    - label: "Email : doe2x2@seoultech.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:doe2x2@seoultech.ac.kr
     - label: "Website"
