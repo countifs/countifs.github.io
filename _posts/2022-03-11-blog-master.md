@@ -21,8 +21,11 @@ search : true
 - [Minimal mistatke](https://mmistakes.github.io/minimal-mistakes/) : Minimal mistatke
 - [Minimal mistake Github Repository](https://github.com/mmistakes/minimal-mistakes) :  Repository
 - [Minimal mistatke Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) : Quick-Start Guide
+- [Minimal mistatke Quick-Start Guide Notice](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/) : 공지사항 설정
 - [Google Analytics](https://analytics.google.com/analytics/web/provision/#/p306700000/reports/reportinghub?params=_u..nav%3Dmaui) : 구글 애널리틱스 방문자 관리
 - [목차(TOC) 아이콘](https://fontawesome.com/icons) : 목차 아이콘 검색
 - [구글웹마스터](https://search.google.com/search-console/welcome?hl=ko&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home) : 구글웹마스터
 - [네이버웹마스터](https://searchadvisor.naver.com/) : 네이버 웹마스터
-- [구글폰트](https://fonts.google.com/?subset=korean) : 구글폰트
+- [구글폰트](https://fonts.google.com/?subset=korean) : 구글폰트 
+
+`print('hello')`

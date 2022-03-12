@@ -13,10 +13,21 @@ sidebar:
 search : true
 ---
 
+**[공지사항]** [지킬블로그 신규 업데이트 안내드립니다.](https://github.com/countifs?tab=repositories)
+{: .notice--danger}
 
+<div class = "notice--success">
+<h4>공지사항입니다.</h4>
+<ul>
+      <li>공지사항 순서1 </li>
+      <li>공지사항 순서2 </li>
+      
+</ul>
+</div>
 
+[구글 버튼입니다.](https://google.com){: .btn .btn--danger}
 
-
+{% include video id="q0P3TSoVNDM" provider="youtube" %}
 
 
 - [취미로 코딩하는 개발자](https://devinlife.com/howto/) : 블로그 페이지
