@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "블로그 관리자"
+title:  "블로그 레퍼런스"
 categories : Blog
 tag : [Blog, jekyll]
 toc: false
