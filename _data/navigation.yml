@@ -1,21 +1,23 @@
 # main links
 main:
-  - title: "Category"
+  - title: "HOME"
+    url: /
+  - title: "ABOUT"
+    url: /about/    
+  - title: "CATEGORY ▼"
     url: /categories/
-  - title: "Tags"
+  - title: "PORTFOLIO"
+    url: /portfolio/
+  - title: "TAGS"
     url: /tags/
-  - title: "Search"
+  - title: "SEARCH"
     url: /search/
+
+
+
 
 docs:
   - title: "대목차1"
-    children:
-      - title : "Category"
-        url: /categories/
-      - title: "Tags"
-        url: /tags/
-
-  - title: "대목차2"
     children:
       - title : "Category"
         url: /categories/

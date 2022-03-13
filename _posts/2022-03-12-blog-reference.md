@@ -13,7 +13,7 @@ sidebar:
 search : true
 ---
 
-**[공지사항]** [지킬블로그 신규 업데이트 안내드립니다.](https://github.com/countifs?tab=repositories)
+**[공지사항]** [공지사항 테스트](https://github.com/countifs?tab=repositories)
 {: .notice--danger}
 
 <div class = "notice--success">
