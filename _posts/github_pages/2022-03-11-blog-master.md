@@ -17,7 +17,6 @@ search : true
 
 - [블로그](https://countifs.github.io/) : 깃헙 페이지
 - [로컬호스트](http://localhost:4000/) : 로컬호스트 4000 
-- [Github](https://github.com/countifs) : 깃허브 관리
 - [Github Blog Repository](https://github.com/countifs/countifs.github.io) : 깃허브 블로그 저장소
 - [DiSQUS](https://disqus.com/) :  댓글 코멘트 관리
 - [Minimal mistatke](https://mmistakes.github.io/minimal-mistakes/) : Minimal mistatke
