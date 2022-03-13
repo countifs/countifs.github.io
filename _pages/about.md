@@ -7,7 +7,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 author_profile : true
 ---
 
-#hello 
+# hello 
 
 ## 자기소개
 안녕 나는 김재호 블로그를 열심히 만들고 있는 중이지 재미있구나<br>
