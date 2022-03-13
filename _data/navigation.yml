@@ -5,12 +5,7 @@ main:
   - title: "ABOUT"
     url: /about/
   - title: "CATEGORY"
-    url: /categories/
-#    children:
-#      - title: GitHub Pages
-#        url: /github_pages/
-#      - title: SQL
-#        url: /sql_pages/
+    url : /categories/
   - title: "TAGS"
     url: /tags/
   - title: "SEARCH"

@@ -1,25 +1,22 @@
 ---
 layout: single
-title:  "블로그 관리자"
-excerpt : "블로그 관리자 페이지 입니다."
-categories : 
+title:  "GitHub Pages Admin"
+categories :
 - GitHub Pages
-tag : [Blog, jekyll]
+tag : [GitHub Pages, jekyll, Blog]
 toc: false
 toc_sticky : true
 toc_label: "Blog Master"
 toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
-author_profile: false
-sidebar: 
-     nav: "docs"
+author_profile: true
+search : true
 search : true     
 ---
 
 - [블로그](https://countifs.github.io/) : 깃헙 페이지
-- [로컬호스트](http://localhost:4000/) : 로컬호스트 4000 
-- [Github](https://github.com/countifs) : 깃허브 관리
+- [로컬호스트](http://localhost:4000/) : 로컬호스트 4000
 - [Github Blog Repository](https://github.com/countifs/countifs.github.io) : 깃허브 블로그 저장소
-- [DiSQUS](https://disqus.com/) :  댓글 코멘트 관리
+- [DISQUS](https://disqus.com/) :  댓글 코멘트 관리
 - [Minimal mistatke](https://mmistakes.github.io/minimal-mistakes/) : Minimal mistatke
 - [Minimal mistake Github Repository](https://github.com/mmistakes/minimal-mistakes) :  Repository
 - [Minimal mistatke Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) : Quick-Start Guide
