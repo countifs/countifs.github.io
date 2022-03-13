@@ -1,7 +1,9 @@
 ---
 layout: single
 title:  "블로그 관리자"
-categories : Blog
+excerpt : "블로그 관리자 페이지 입니다."
+categories : 
+- GitHub Pages
 tag : [Blog, jekyll]
 toc: false
 toc_sticky : true

@@ -3,17 +3,18 @@ main:
   - title: "HOME"
     url: /
   - title: "ABOUT"
-    url: /about/    
-  - title: "CATEGORY ▼"
+    url: /about/
+  - title: "CATEGORY"
     url: /categories/
-  - title: "PORTFOLIO"
-    url: /portfolio/
+#    children:
+#      - title: GitHub Pages
+#        url: /github_pages/
+#      - title: SQL
+#        url: /sql_pages/
   - title: "TAGS"
     url: /tags/
   - title: "SEARCH"
     url: /search/
-
-
 
 
 docs:
