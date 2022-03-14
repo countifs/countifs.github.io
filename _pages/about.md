@@ -1,12 +1,10 @@
 ---
 
-title: "About"
+title: "WHO IS COUNTIFS"
 layout : single
 permalink: /about/
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 author_profile : true
----
-
 ---
 
 
