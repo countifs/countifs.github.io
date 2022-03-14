@@ -32,26 +32,6 @@ search : true
 
 폴더 버튼을 클릭하면 현재 탐색창에 
 
-![](../images/2022-03-14-colab-pages-drivemount/image-20220314213919192.png)
-
-
-
-![](../images/2022-03-14-colab-pages-drivemount/image-20220314213919192-16472852833876.png)
-
-![](../images/2022-03-14-colab-pages-drivemount/image-20220314215058935-16472852263195.png)
-
-
-
-
-
-
-
-![](../images/2022-03-14-colab-pages-drivemount/image-20220314213919192.png)
-
-
-
-
-
 
 
 
@@ -69,5 +49,4 @@ drive.mount('/content/drive')
 from google.colab import drive
 drive.mount('/content/gdrive')
 ```
-
 
