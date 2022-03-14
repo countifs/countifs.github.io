@@ -12,10 +12,6 @@ author_profile: true
 search : true 
 ---
 
-
-
-# Github Pages Source
-
 - 마크다운 문법 정리하기
 - 유튜브 링크 삽입방법
 - 버튼 만들기

@@ -12,8 +12,6 @@ author_profile: true
 search : true
 ---
 
-## GitHub Pages Reference
-
 - [취미로 코딩하는 개발자](https://devinlife.com/howto/) : 블로그 페이지
   - [취미로 코딩하는 개발자](https://github.com/devinlife/devinlife.github.io) : 블로그 깃허브 저장소
 - [Developer Jinn](https://codebaragi23.github.io/) : 블로그 페이지
