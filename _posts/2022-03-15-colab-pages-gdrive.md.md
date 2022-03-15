@@ -4,7 +4,7 @@ title:  "코랩(Colab)에서 구글드라이브(Google Drive) 연동"
 categories :
 - Colab
 tag : [Colab, Google Drive]
-toc: true
+toc: false
 toc_sticky : true
 toc_label: "--"
 toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
