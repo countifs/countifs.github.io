@@ -30,11 +30,8 @@ search : true
 
 
 
-![image-20220315051246958](../images/2022-03-11-github-pages-admin/테스트.png)
+
+![](그림2.png)
 
 
-
-![테스트](../images/2022-03-11-github-pages-admin/테스트-16472889114544-16472889160485.png)
-
-
-
+![](../images/2022-03-14-github-pages-source/테스트-16472904602017.png)
