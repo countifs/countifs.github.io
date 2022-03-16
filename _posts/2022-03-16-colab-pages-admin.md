@@ -1,17 +1,17 @@
 ---
 layout: single
-title:  "Colab Pages Admin"
+title:  "Colab 노트북 GitHub 블로그 작성 Source code"
 categories : [Colab]
 tag : [Colab, GitHub Pages]
 toc: false
 toc_sticky : true
 toc_label: " "
-toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "file" 
 author_profile: true
 search : true 
 ---
 
-### **📌 Colab 노트북 정리**
+### **📌 Colab 노트북 블로그 작성 Source Code**
 
 <a href="https://colab.research.google.com/drive/1vJrptCaNj7j2sLc_ce3ZlhVXkz5QB58e?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
