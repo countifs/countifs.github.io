@@ -15,7 +15,9 @@ search : true
 
 <a href="https://colab.research.google.com/drive/1vJrptCaNj7j2sLc_ce3ZlhVXkz5QB58e?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-#### 코랩 숏컷 단축키 사용방법 : 크롬 확장팩 ["Magical"](https://www.getmagical.com/change-log) 설치 
+##### 👉 코랩 숏컷 단축키 사용방법 : 크롬 확장팩 ["Magical"](https://www.getmagical.com/change-log) 설치 
+
+---
 
 #### 1. 코랩 구글드라이브에 마운트하기 (shortcut → z;1)
 
