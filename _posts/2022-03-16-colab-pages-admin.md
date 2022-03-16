@@ -108,7 +108,9 @@ search : true
 ---
 ```
 
-#### 9. GitHub Pages 작성 레이아웃 (shortcut → z;8)
+#### 9. GitHub Pages 작성 레이아웃 (shortcut → z;9)
+<a href="link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ```html
 <a href="link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ```
