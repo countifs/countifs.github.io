@@ -107,3 +107,8 @@ author_profile: true
 search : true 
 ---
 ```
+
+#### 9. GitHub Pages 작성 레이아웃 (shortcut → z;8)
+```html
+<a href="link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+```
