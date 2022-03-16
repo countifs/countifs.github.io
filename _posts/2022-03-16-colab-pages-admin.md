@@ -11,9 +11,9 @@ author_profile: true
 search : true 
 ---
 
-### **Colab 노트북 정리**
+### **📌 Colab 노트북 정리 **
 
-- https://jupyterbook.org/content/figures.html
+#### 코랩 숏컷 단축키 사용방법 : 크롬 확장팩 ["Magical"](https://www.getmagical.com/change-log) 설치 
 
 #### 1. 코랩 구글드라이브에 마운트하기 (shortcut → z;1)
 
@@ -32,7 +32,6 @@ path='https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
 size="width=\"\" "+"height =\"\" "
 tag="<img src='"+path+"' "+size+"/><br>"
 print('\n',tag)
-
 ```
 
 #### 3. 구글드라이브 로컬폴더 공유파일의 이미지 태그 만들기 (shortcut → z;3)
