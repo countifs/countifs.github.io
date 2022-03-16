@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Colab 노트북 GitHub 블로그 작성 Source code"
+title:  "Colab으로 GitHub pages 작성 Source code"
 categories : [Colab]
 tag : [Colab, GitHub Pages]
 toc: false
@@ -11,7 +11,7 @@ author_profile: true
 search : true 
 ---
 
-### **📌 Colab 노트북 블로그 작성 Source Code**
+### **📌 Colab으로 GitHub pages 작성 Source Code**
 
 <a href="https://colab.research.google.com/drive/1vJrptCaNj7j2sLc_ce3ZlhVXkz5QB58e?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -30,7 +30,7 @@ drive.mount('/content/drive')
 #### 2. 구글드라이브 공유파일 이미지 태그 만들기 (shortcut → z;2)
 
 ```python
-#구글드라이브 공유파일 이미지 태그 만들기
+# 구글드라이브 공유파일 이미지 태그 만들기
 url=input("공유파일 이미지 링크 입력 : ")
 path='https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
 size="width=\"\" "+"height =\"\" "
@@ -54,7 +54,7 @@ print('\n',tag)
 #### 4. 구글드라이브 csv 공유파일 불러오기 (shortcut → z;4)
 
 ```python
-#구글드라이브 csv 공유파일 불러오기 (z;4)
+# 구글드라이브 csv 공유파일 불러오기 (z;4)
 import pandas as pd
 url=input("▶ 공유파일 csv 링크 입력 : ")
 path='https://drive.google.com/uc?id='+url.split('/')[-2]
@@ -66,7 +66,7 @@ df.head()
 #### 5. 구글드라이브 로컬폴더의 csv 공유파일 불러오기 (shortcut → z;5)
 
 ```python
-#구글드라이브 로컬폴더의 csv 공유파일 불러오기 (z;5)
+# 구글드라이브 로컬폴더의 csv 공유파일 불러오기 (z;5)
 import pandas as pd
 url=input("▶ 공유파일 csv 링크 입력 : ")
 url_split=url.split('=')[1]
@@ -91,7 +91,7 @@ df.head()
 !jupyter nbconvert --to markdown "/path/"
 ```
 
-#### 9. GitHub Pages 작성 레이아웃 (shortcut → z;9)
+#### 8. GitHub Pages 작성 레이아웃 (shortcut → z;8)
 
 ```markdown
 ---
