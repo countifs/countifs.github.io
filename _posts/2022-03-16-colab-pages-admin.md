@@ -100,7 +100,7 @@ tag : [ ]
 toc: false
 toc_sticky : true
 toc_label: " "
-toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "file"  
 author_profile: true
 search : true 
 ---
