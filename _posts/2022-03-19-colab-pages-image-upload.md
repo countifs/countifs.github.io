@@ -11,7 +11,7 @@ author_profile: true
 search : true
 ---
 
-# 📌 **코랩(Colab) & 주피터(Jupyter) 노트북에 구글 드라이브 공유 이미지 링크 업로드**
+### 📌 **코랩 & 주피터 노트북에 구글 드라이브 공유 이미지 링크 업로드**
 
 오늘은 구글 코랩(Colab) 또는 주피터(Jupyter) 노트북 파일에 
 
@@ -74,7 +74,7 @@ search : true
 
 생성된 링크주소는 아래와 같다.
 
-```https://drive.google.com/file/d/1lsgC54AC8z8TqjvJ9X-VE7qpf27Gpubn/view?usp=sharing```
+https://drive.google.com/file/d/1lsgC54AC8z8TqjvJ9X-VE7qpf27Gpubn/view?usp=sharing
 
 
 생성된 링크를 크롬 url 입력창에 그대로 입력하거나 위 링크를 그대로 클릭하면 아래 이미지와 같이 화면에 나타나는데,
@@ -179,12 +179,6 @@ Tag값은 Path값을 이용해 이미지가 출력되도록 변환해준 값이�
 출력해보면 입력한 값에 따라서 이미지 크기가 변경되는 것을 확인할 수 있다.
 
 <img src='https://drive.google.com/uc?export=download&id=1lsgC54AC8z8TqjvJ9X-VE7qpf27Gpubn' width="200" height ="" /><br>
-
-<br>
-
----
-
-<br>
 
 ## **2. 코드셀에서 구글드라이브 공유링크 이미지 출력하기**
 
