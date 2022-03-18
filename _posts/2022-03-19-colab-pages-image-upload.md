@@ -1,16 +1,14 @@
 ---
-
 layout: single
 title:  "코랩(Colab) & 주피터(Jupyter) 노트북에 이미지 업로드 하기"
-categories : [Colab ]
+categories : [Colab]
 tag : [Colab, Images Upload, Images insert, Google Drive ]
 toc: false
 toc_sticky : true
 toc_label: " "
 toc_icon: "file"  
 author_profile: true
-search : true 
-
+search : true
 ---
 
 # 📌 **코랩(Colab) & 주피터(Jupyter) 노트북에 구글 드라이브 공유 이미지 링크 업로드**
